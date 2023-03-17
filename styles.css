@@ -1,0 +1,58 @@
+img{
+    width: 10%;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+}
+footer{
+    text-align: center;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.form{
+    text-align: center;
+}
+input, textarea{
+    margin: 5px;
+
+}
+button{
+    width: 100px;
+    margin-left: 50%;
+}
+.link-c, .link1-c{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-right: 90%;
+    gap: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.link-h, .link1-h{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-right: 90%;
+    gap: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.link1-c{
+    background-color:aqua ;
+}
+.link-h{
+    background-color: aqua;
+}
+input{
+    margin-left: 29px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
